@@ -1,0 +1,8 @@
+$span-color: green;
+span {
+    color: $span-color;
+}
+$selected-color:pink !important;
+.selected {
+        color: $selected-color;
+  }
